@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Medication Reminder",
+    "slug": "medication-reminder-app",
+    "scheme": "medremind",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    }
+  }
+}
